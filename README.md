@@ -13,3 +13,11 @@
 ![image](https://github.com/scp504677840/GuaGuaKa/blob/master/GuaGuaKaForVisibleBG/GuaGuaKaForVisibleBG01.png)
 
 ![image](https://github.com/scp504677840/GuaGuaKa/blob/master/GuaGuaKaForVisibleBG/GuaGuaKaForVisibleBG02.png)
+
+##GuaGuaKaForFull
+
+3.实现了刮刮卡的完整版功能，效果图如下:
+
+![image](https://github.com/scp504677840/GuaGuaKa/blob/master/GuaGuaKaForFull/GuaGuaKaForFull01.png)
+
+![image](https://github.com/scp504677840/GuaGuaKa/blob/master/GuaGuaKaForFull/GuaGuaKaForFull02.png)
