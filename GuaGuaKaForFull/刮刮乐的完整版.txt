@@ -1,0 +1,4 @@
+1.Canvas、Paint、Path、Bitmap的使用
+2.Paint.setXferMode的使用
+3.自定义属性
+4.Bitmap.getPixles获得所有像素点

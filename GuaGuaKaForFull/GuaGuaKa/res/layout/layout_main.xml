@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:scp="http://schemas.android.com/apk/res/com.scp.guaguaka"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.scp.guaguaka.view.GuaGuaKa
+        android:id="@+id/guaguaka"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        scp:text="$5000000"
+        scp:textColor="#ff00f0"
+        scp:textSize="22sp" >
+    </com.scp.guaguaka.view.GuaGuaKa>
+
+</RelativeLayout>
